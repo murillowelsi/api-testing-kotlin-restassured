@@ -1,5 +1,5 @@
 {
-  "quantidade": 1,
+  "quantidade": 4,
   "usuarios": [
     {
       "nome": "Fulano da Silva",
@@ -7,6 +7,27 @@
       "password": "teste",
       "administrador": "true",
       "_id": "0uxuPY0cbmQhpEz1"
+    },
+    {
+      "nome": "Cordie",
+      "email": "Lucinda_Cruickshank48@gmail.com",
+      "password": "YDPSOo7CFWGf_JY",
+      "administrador": "true",
+      "_id": "VTdrETzQSKaMH2zp"
+    },
+    {
+      "nome": "Amelie",
+      "email": "Savanna_Bogisich57@yahoo.com",
+      "password": "47I2bCrifr038cE",
+      "administrador": "true",
+      "_id": "ZtJG69MAktxBK4v2"
+    },
+    {
+      "nome": "Alayna",
+      "email": "Elna.Wunsch@gmail.com",
+      "password": "ERFD0JB1PKCDsuN",
+      "administrador": "true",
+      "_id": "qVcKc2XeIg8Cue63"
     }
   ]
 }

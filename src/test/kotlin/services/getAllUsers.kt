@@ -1,4 +1,4 @@
-package tests.services
+package services
 
 import io.restassured.module.kotlin.extensions.Given
 import io.restassured.module.kotlin.extensions.Then
