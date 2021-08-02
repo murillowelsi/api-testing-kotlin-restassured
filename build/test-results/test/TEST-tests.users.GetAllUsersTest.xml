@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.users.GetAllUsersTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-01T15:11:00" hostname="Murillos-Air.lan" time="4.679">
+  <properties/>
+  <testcase name="test001" classname="tests.users.GetAllUsersTest" time="4.679"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
